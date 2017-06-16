@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>programku</label>
+	</settings>
+	<users>
+		<user>
+			<path>programku.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>gmailprogram\gmailprogram.jcp</path>
+		</project>
+	</projects>
+</workspace>
